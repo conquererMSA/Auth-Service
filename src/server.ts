@@ -8,7 +8,7 @@ src/server.ts e database connection takbe..
 app.ts e express theke app start kora hobe..
  */
 
-//handle uncaught exception
+//handle uncaught exception: developer mistake
 // eslint-disable-next-line no-unused-vars, @typescript-eslint/no-unused-vars
 process.on('uncaughtException', error => {
   console.log('uncaughtException detected.....')

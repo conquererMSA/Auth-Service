@@ -10,5 +10,20 @@ AcademicSemisterRoutes.post(
   validateRequest(AcademicSemisterValidation.createAcademicSemisterZodSchema),
   AcademicSemisterController.createAcademicSemisterController,
 )
+AcademicSemisterRoutes.get(
+  '/id',
+  AcademicSemisterController.getSingleAcademicSemisterController,
+)
+
+AcademicSemisterRoutes.patch(
+  '/id',
+  validateRequest(AcademicSemisterValidation.updateAcademicSemisterZodSchema),
+  AcademicSemisterController.updateAcademicSemisterController,
+)
+
+AcademicSemisterRoutes.get(
+  '/all',
+  AcademicSemisterController.getAllAcademicSemisterController,
+)
 
 export default AcademicSemisterRoutes

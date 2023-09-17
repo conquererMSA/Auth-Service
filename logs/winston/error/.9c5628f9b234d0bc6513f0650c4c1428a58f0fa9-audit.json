@@ -6,49 +6,9 @@
     "auditLog": "E:\\next-level\\Backend Braniac\\Wep App Initial Setup\\logs\\winston\\error\\.9c5628f9b234d0bc6513f0650c4c1428a58f0fa9-audit.json",
     "files": [
         {
-            "date": 1694417793152,
-            "name": "E:\\next-level\\Backend Braniac\\Wep App Initial Setup\\logs\\winston\\error\\13-11-09-2023-WAIS-error.log",
-            "hash": "2f4facd57487d11cb16bdeb98855859419c7a9f5a40364e67523a583b73e8f29"
-        },
-        {
-            "date": 1694419865576,
-            "name": "E:\\next-level\\Backend Braniac\\Wep App Initial Setup\\logs\\winston\\error\\14-11-09-2023-WAIS-error.log",
-            "hash": "c274904ebc230dc50ad63712a485c384fc3a0a256bf5862a310261a521c124cd"
-        },
-        {
-            "date": 1694422883597,
-            "name": "E:\\next-level\\Backend Braniac\\Wep App Initial Setup\\logs\\winston\\error\\15-11-09-2023-WAIS-error.log",
-            "hash": "8efcc7e4a59e64c8834e7db63a4bf3a18f2d28dd9b63c275fb2279bbbbdfef75"
-        },
-        {
-            "date": 1694426435148,
-            "name": "E:\\next-level\\Backend Braniac\\Wep App Initial Setup\\logs\\winston\\error\\16-11-09-2023-WAIS-error.log",
-            "hash": "0926c7acdc06b295e35ab9407cf7078af96ae2ba9b42a44ad3e0ab0cc8da0f77"
-        },
-        {
-            "date": 1694445917840,
-            "name": "E:\\next-level\\Backend Braniac\\Wep App Initial Setup\\logs\\winston\\error\\21-11-09-2023-WAIS-error.log",
-            "hash": "aefd28e1925d51566c8f9d4c81e1a823880e309e930cf3833eaa7853148782b2"
-        },
-        {
-            "date": 1694448070012,
-            "name": "E:\\next-level\\Backend Braniac\\Wep App Initial Setup\\logs\\winston\\error\\22-11-09-2023-WAIS-error.log",
-            "hash": "bd32718c0be04f42649eba1867aa5da148d7d101b2afdb2d5016949c168af1cb"
-        },
-        {
-            "date": 1694453349946,
-            "name": "E:\\next-level\\Backend Braniac\\Wep App Initial Setup\\logs\\winston\\error\\23-11-09-2023-WAIS-error.log",
-            "hash": "920d747b895f95933f3574de5e69e9385932453737b93a878d008120198e03ee"
-        },
-        {
-            "date": 1694455300513,
-            "name": "E:\\next-level\\Backend Braniac\\Wep App Initial Setup\\logs\\winston\\error\\00-12-09-2023-WAIS-error.log",
-            "hash": "99a42a90e3d397a26cddb33d0d163ef4d7a049cb8daaf43c3e1bf28b70a512c7"
-        },
-        {
-            "date": 1694458907982,
-            "name": "E:\\next-level\\Backend Braniac\\Wep App Initial Setup\\logs\\winston\\error\\01-12-09-2023-WAIS-error.log",
-            "hash": "8d8a9d63cd670f050d16421dfd60c0263052dd35e468772598298c47317173d4"
+            "date": 1694924712470,
+            "name": "E:\\next-level\\Backend Braniac\\Wep App Initial Setup\\logs\\winston\\error\\10-17-09-2023-WAIS-error.log",
+            "hash": "a32293657e8f0a581d5594707f3ce9c5226c20ff68f5de4e84afe09c86f4ae4a"
         }
     ],
     "hashType": "sha256"
